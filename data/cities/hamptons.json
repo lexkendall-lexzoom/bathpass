@@ -1,0 +1,52 @@
+{
+  "name": "The Hamptons",
+  "state": "NY",
+  "lat": 40.96,
+  "lng": -72.19,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "hmp1",
+      "num": 1,
+      "name": "Gurney's Montauk Resort & Seawater Spa",
+      "hood": "Montauk",
+      "type": "resort",
+      "price": "from $100",
+      "score": 9,
+      "gf": [
+        "Seawater pools",
+        "Ocean views",
+        "Summer destination",
+        "Worth every dollar"
+      ],
+      "review": "The seawater infinity pool overlooking the Atlantic Ocean at Gurney's Montauk is the kind of thing people build their weekend plans around. The spa uses Atlantic seawater in its thermal circuits — genuinely mineral-rich, genuinely unusual. The full Gurney's day is one of the better arguments for leaving the city.",
+      "hours": "Daily · Day passes available",
+      "url": "https://gurneysmontauk.com",
+      "lat": 41.046,
+      "lng": -71.935,
+      "img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "hmp2",
+      "num": 2,
+      "name": "Shou Sugi Ban House",
+      "hood": "Water Mill",
+      "type": "resort",
+      "price": "from $200",
+      "score": 9.1,
+      "gf": [
+        "Destination wellness",
+        "Japanese architecture",
+        "Full immersion",
+        "Multi-day"
+      ],
+      "review": "A destination wellness retreat in Water Mill inspired by Japanese architecture and healing philosophy, with the serious wellness programming to back it up — sauna, cold plunge, sound baths, forest bathing, and exceptional food. This is not a spa day. This is a life recalibration.",
+      "hours": "By reservation · Multi-day and day programs",
+      "url": "https://shousugiban.com",
+      "lat": 40.924,
+      "lng": -72.331,
+      "img": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

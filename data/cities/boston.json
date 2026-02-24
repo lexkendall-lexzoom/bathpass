@@ -1,0 +1,51 @@
+{
+  "name": "Boston",
+  "state": "MA",
+  "lat": 42.36,
+  "lng": -71.06,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "bos1",
+      "num": 1,
+      "name": "Bodhi Spa",
+      "hood": "Union Square, Somerville",
+      "type": "spa",
+      "price": "from $45",
+      "score": 8.5,
+      "gf": [
+        "Salt cave",
+        "Infrared sauna",
+        "Local favorite",
+        "Under $60"
+      ],
+      "review": "Boston's most interesting wellness destination — a halotherapy salt cave and infrared sauna complex in Somerville with serious credentials and a devoted local following. The signature experience is 45 minutes in the hand-carved Himalayan salt cave. Genuinely unusual and genuinely effective.",
+      "hours": "Daily · By appointment",
+      "url": "https://bodhispa.com",
+      "lat": 42.3802,
+      "lng": -71.0961,
+      "img": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "bos2",
+      "num": 2,
+      "name": "The Spa at Mandarin Oriental Boston",
+      "hood": "Back Bay",
+      "type": "spa",
+      "price": "from $95",
+      "score": 8.2,
+      "gf": [
+        "Luxury",
+        "Business travel",
+        "Boylston St"
+      ],
+      "review": "The Mandarin formula applied to Back Bay, which means it's excellent. Heated vitality pool, thermal suite, skilled therapists. The outdoor terrace in warmer months is a pleasant surprise. Boston's gold standard for hotel spa.",
+      "hours": "Daily · Reservation required",
+      "url": "https://www.mandarinoriental.com/boston",
+      "lat": 42.3487,
+      "lng": -71.0844,
+      "img": "https://images.unsplash.com/photo-1574478839902-9135bc39bc99?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

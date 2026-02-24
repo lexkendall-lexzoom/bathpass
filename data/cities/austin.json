@@ -1,0 +1,71 @@
+{
+  "name": "Austin",
+  "state": "TX",
+  "lat": 30.27,
+  "lng": -97.75,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "aus1",
+      "num": 1,
+      "name": "Lake Austin Spa Resort",
+      "hood": "Lake Austin",
+      "type": "resort",
+      "price": "from $180",
+      "score": 9.2,
+      "gf": [
+        "Weekend escape",
+        "Full immersion",
+        "Lake access",
+        "Special occasions"
+      ],
+      "review": "An all-inclusive spa resort on the banks of Lake Austin that consistently ranks among the best in the country, and earns it. The LakeHouse Spa, outdoor pools, botanical gardens, and treatment options are all exceptional. Day passes exist. Staying is better.",
+      "hours": "Daily · Reservation required",
+      "url": "https://lakeaustin.com",
+      "lat": 30.354,
+      "lng": -97.858,
+      "img": "https://images.unsplash.com/photo-1535530992830-e25d07cfa780?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "aus2",
+      "num": 2,
+      "name": "Hiatus Spa + Retreat",
+      "hood": "South Austin",
+      "type": "spa",
+      "price": "from $75",
+      "score": 8,
+      "gf": [
+        "Urban wellness",
+        "Locals' pick",
+        "Treatments"
+      ],
+      "review": "Austin's most consistently excellent urban day spa. Not a resort, not a hotel amenity — a standalone spa that takes its craft seriously. The thermal circuit access with cold plunge and steam is solid, the treatment menu is thoughtful.",
+      "hours": "Daily · By appointment",
+      "url": "https://hiatus-spa.com",
+      "lat": 30.2373,
+      "lng": -97.7888,
+      "img": "https://images.unsplash.com/photo-1519167758481-83f550bb8eb2?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "aus3",
+      "num": 3,
+      "name": "Austin Float Center",
+      "hood": "East Austin",
+      "type": "float",
+      "price": "from $79",
+      "score": 7.8,
+      "gf": [
+        "Sensory deprivation",
+        "Post-festival reset",
+        "East Austin"
+      ],
+      "review": "Austin's most dedicated float operation. Multiple tank options, clean facilities, and a staff that actually knows what float therapy does to your nervous system. East Austin location means you can go after dinner and walk to something good.",
+      "hours": "Daily 9am–10pm · By appointment",
+      "url": "https://austinfloatcenter.com",
+      "lat": 30.266,
+      "lng": -97.721,
+      "img": "https://images.unsplash.com/photo-1518732714860-b62714ce0c59?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

@@ -1,0 +1,71 @@
+{
+  "name": "San Francisco",
+  "state": "CA",
+  "lat": 37.77,
+  "lng": -122.43,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "sf1",
+      "num": 1,
+      "name": "Archimedes Banya",
+      "hood": "Dogpatch",
+      "type": "bathhouse",
+      "price": "from $50",
+      "score": 9,
+      "gf": [
+        "The real banya",
+        "Authentic",
+        "All day"
+      ],
+      "review": "An authentic Russian banya in Dogpatch that the Bay Area genuinely does not deserve but is very lucky to have. Three saunas including a banya at 200°F, cold plunge pools, eucalyptus steam, and a full menu of massage and body treatments. The platza service is the real deal.",
+      "hours": "Tue–Sun 10am–10pm · Mon 12pm–10pm",
+      "url": "https://archimedesbanya.com",
+      "lat": 37.7556,
+      "lng": -122.3872,
+      "img": "https://images.unsplash.com/photo-1527637040694-60b17b13f9df?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "sf2",
+      "num": 2,
+      "name": "Kabuki Springs & Spa",
+      "hood": "Japantown",
+      "type": "bathhouse",
+      "price": "from $35",
+      "score": 8.5,
+      "gf": [
+        "Japanese tradition",
+        "Value",
+        "Communal bathing",
+        "Locals"
+      ],
+      "review": "A Japanese communal bath in the heart of Japantown that has been doing this for decades. Alternating gender-separated and co-ed days. The soaking pool, sauna, and cold plunge circuit is $35 and worth twice that. A San Francisco institution.",
+      "hours": "Daily · Check gender schedule",
+      "url": "https://kabukisprings.com",
+      "lat": 37.7849,
+      "lng": -122.4313,
+      "img": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "sf3",
+      "num": 3,
+      "name": "International Orange",
+      "hood": "Fillmore",
+      "type": "spa",
+      "price": "from $135",
+      "score": 7.8,
+      "gf": [
+        "Boutique",
+        "Intimate",
+        "Treatments"
+      ],
+      "review": "A small, seriously curated spa on Fillmore that has built a devoted following by being good at exactly what it does — skilled therapists, thoughtful product, and none of the sprawl. The most boutique experience on this list.",
+      "hours": "Daily · By appointment",
+      "url": "https://internationalorange.com",
+      "lat": 37.7882,
+      "lng": -122.4328,
+      "img": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

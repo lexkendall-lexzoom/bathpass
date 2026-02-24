@@ -1,0 +1,51 @@
+{
+  "name": "San Diego",
+  "state": "CA",
+  "lat": 32.72,
+  "lng": -117.16,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "sd1",
+      "num": 1,
+      "name": "The Spa at Torrey Pines",
+      "hood": "La Jolla",
+      "type": "resort",
+      "price": "from $100",
+      "score": 9,
+      "gf": [
+        "Clifftop views",
+        "Golfers + non-golfers",
+        "Full day",
+        "Couples"
+      ],
+      "review": "Set on the cliffs above the Torrey Pines golf course with views of the Pacific that you'd pay just to sit and look at. The spa experience matches the setting — the outdoor eucalyptus steam garden alone is worth the drive from downtown. One of the best resort spas on the West Coast.",
+      "hours": "Daily · Reservation required",
+      "url": "https://www.torreypinesinn.com",
+      "lat": 32.8979,
+      "lng": -117.2468,
+      "img": "https://images.unsplash.com/photo-1602002418082-a4443978a5d5?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "sd2",
+      "num": 2,
+      "name": "Kure Spa",
+      "hood": "Gaslamp / Little Italy",
+      "type": "sauna",
+      "price": "from $55",
+      "score": 7.8,
+      "gf": [
+        "Infrared sauna",
+        "Cold plunge",
+        "Downtown"
+      ],
+      "review": "San Diego's most polished urban wellness studio, with infrared saunas, cold plunge, and recovery treatments designed for the active person. Two downtown locations. The contrast therapy sessions are well-programmed.",
+      "hours": "Daily · Session-based",
+      "url": "https://kurespa.com",
+      "lat": 32.719,
+      "lng": -117.1691,
+      "img": "https://images.unsplash.com/photo-1574482620816-c13b8b19f7d1?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Charlotte",
+  "state": "NC",
+  "lat": 35.23,
+  "lng": -80.84,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "char1",
+      "num": 1,
+      "name": "The Spa at Ballantyne",
+      "hood": "Ballantyne",
+      "type": "resort",
+      "price": "from $90",
+      "score": 8.2,
+      "gf": [
+        "Full service",
+        "Business meetings",
+        "South Charlotte"
+      ],
+      "review": "The anchor spa of the Ballantyne resort complex, with a full hydrothermal circuit — warm pool, sauna, steam, cold plunge — and a treatment program that consistently ranks among the best in the Carolinas. The most complete spa experience in Charlotte.",
+      "hours": "Daily · Reservation recommended",
+      "url": "https://theballantynehotel.com",
+      "lat": 35.042,
+      "lng": -80.8455,
+      "img": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

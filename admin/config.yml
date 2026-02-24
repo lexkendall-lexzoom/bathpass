@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "images/uploads"
+
+collections:
+  - name: site_content
+    label: Site Content
+    files:
+      - name: content
+        label: Content
+        file: _data/content.json
+        format: json
+        fields:
+          - { label: "Hero Eyebrow", name: "hero_eyebrow", widget: "string", default: "25 CITIES · 100+ VENUES · EXPANDING" }
+          - { label: "Hero Headline", name: "hero_headline", widget: "string", default: "The Definitive Bathhouse Guide." }
+          - { label: "Hero Subheading", name: "hero_subheading", widget: "text", default: "Every bathhouse, sauna, thermal bath, and cold plunge worth your time..." }
+          - { label: "Stat Venues", name: "stat_venues", widget: "string", default: "100+" }
+          - { label: "Stat Cities", name: "stat_cities", widget: "string", default: "25" }
+          - { label: "Stat Opening Soon", name: "stat_opening_soon", widget: "string", default: "12" }
+          - { label: "Email Section Label", name: "email_section_label", widget: "string", default: "STAY IN THE LOOP" }
+          - { label: "Email Section Headline", name: "email_section_headline", widget: "string", default: "Be the first to know..." }
+          - { label: "Email Section Body", name: "email_section_body", widget: "text", default: "We'll send you the top wellness spaces in your area plus first notice of everything opening near you." }

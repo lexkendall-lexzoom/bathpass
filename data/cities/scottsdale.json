@@ -1,0 +1,72 @@
+{
+  "name": "Scottsdale",
+  "state": "AZ",
+  "lat": 33.49,
+  "lng": -111.92,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "sco1",
+      "num": 1,
+      "name": "Sanctuary Spa at Sanctuary Camelback",
+      "hood": "Paradise Valley",
+      "type": "spa",
+      "price": "from $150",
+      "score": 9,
+      "gf": [
+        "Desert luxury",
+        "Special occasions",
+        "Views",
+        "Full day"
+      ],
+      "review": "Set into the south slope of Camelback Mountain with views that make the $150 day-pass feel modest. The outdoor desert pools, the sound of nothing, and a treatment menu built around Indigenous desert healing traditions. The best full-day spa experience in the Southwest.",
+      "hours": "Daily · Reservation recommended",
+      "url": "https://www.sanctuaryoncamelback.com",
+      "lat": 33.532,
+      "lng": -111.974,
+      "img": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "sco2",
+      "num": 2,
+      "name": "CIVANA Wellness Resort",
+      "hood": "Carefree",
+      "type": "resort",
+      "price": "from $85",
+      "score": 8.5,
+      "gf": [
+        "Desert wellness",
+        "Full programming",
+        "Groups",
+        "Mindfulness"
+      ],
+      "review": "A serious wellness resort north of Scottsdale that does the programming — yoga, meditation, nutrition, spa — with genuine conviction rather than resort-hotel checkbox energy. Day passes available. Worth the drive to Carefree.",
+      "hours": "Daily · Day passes + resort stays",
+      "url": "https://civanaresort.com",
+      "lat": 33.8261,
+      "lng": -111.9157,
+      "img": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "sco3",
+      "num": 3,
+      "name": "Spa at Four Seasons Troon North",
+      "hood": "North Scottsdale",
+      "type": "spa",
+      "price": "from $120",
+      "score": 8,
+      "gf": [
+        "Golf + spa",
+        "Saguaro views",
+        "Luxury resort"
+      ],
+      "review": "The Four Seasons Troon North spa sits in the middle of the Sonoran Desert with giant saguaros outside every window, and knows how to use its setting. The desert stone massage is legitimately good. The outdoor soaking pool is a strong life choice.",
+      "hours": "Daily · Reservation required",
+      "url": "https://www.fourseasons.com/scottsdale",
+      "lat": 33.654,
+      "lng": -111.833,
+      "img": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

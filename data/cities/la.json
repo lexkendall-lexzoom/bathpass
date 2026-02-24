@@ -1,0 +1,132 @@
+{
+  "name": "Los Angeles",
+  "state": "CA",
+  "lat": 34.05,
+  "lng": -118.35,
+  "zoom": 11,
+  "venues": [
+    {
+      "id": "la1",
+      "num": 1,
+      "name": "Wi Spa",
+      "hood": "Koreatown",
+      "type": "korean",
+      "price": "from $40",
+      "score": 8.5,
+      "gf": [
+        "The full experience",
+        "Night owls",
+        "Cultural immersion"
+      ],
+      "review": "Six floors, 24 hours, and the Korean jjimjilbang experience that makes you realize why every other country figured this out before us. The jade room and ice room alone are worth the visit. A full Korean restaurant on-site. Walk in. One of the genuinely great wellness institutions in America.",
+      "hours": "24 hours daily · Walk-ins welcome",
+      "url": "https://wispausa.com",
+      "lat": 34.0578,
+      "lng": -118.2891,
+      "img": "https://wispausa.com/wp-content/uploads/2021/08/home-slide-salt-768x511.jpg"
+    },
+    {
+      "id": "la2",
+      "num": 2,
+      "name": "AIRE Ancient Baths Venice",
+      "hood": "Venice",
+      "type": "thermal",
+      "price": "from $65",
+      "score": 8.8,
+      "gf": [
+        "Date night",
+        "Out-of-towners",
+        "The thermal circuit"
+      ],
+      "review": "A block from the Pacific, in a restored brick building that feels like it was always meant to hold hot water. The thermal circuit here might be the best in LA. Venice makes everything slightly more worthwhile.",
+      "hours": "Daily 9am–11pm · Reservation required",
+      "url": "https://beaire.com",
+      "lat": 33.9953,
+      "lng": -118.4744,
+      "img": "https://beaire.com/sites/default/files/styles/hero/public/2022-06/aire-ancient-baths-venice-beach.jpg"
+    },
+    {
+      "id": "la3",
+      "num": 3,
+      "name": "Beverly Hot Springs",
+      "hood": "East Hollywood",
+      "type": "springs",
+      "price": "from $40",
+      "score": 8.2,
+      "gf": [
+        "The real thing",
+        "Under $50",
+        "LA's secret"
+      ],
+      "review": "The only natural artesian hot springs in Los Angeles, drawing from 2,200 feet underground — the water comes up warm and mineral-rich without intervention. Decades old, not trying to be anything it's not. LA's best-kept wellness secret.",
+      "hours": "Daily 9am–9pm",
+      "url": "https://beverlyhotsprings.com",
+      "lat": 34.0765,
+      "lng": -118.3012,
+      "img": "https://beverlyhotsprings.com/wp-content/uploads/2018/10/women-936549_1920.jpg"
+    },
+    {
+      "id": "la4",
+      "num": 4,
+      "name": "Othership LA",
+      "hood": "West Hollywood",
+      "type": "sauna",
+      "price": "from $55",
+      "score": 7.8,
+      "gf": [
+        "The ritual",
+        "Community",
+        "Breathwork",
+        "West Side"
+      ],
+      "review": "Same guided sauna-and-ice-bath formula as New York, same intentional playlist, same community energy. West Hollywood means the crowd skews entertainment industry, which makes the breathwork circles interesting.",
+      "hours": "Daily · Session-based booking",
+      "url": "https://othership.us",
+      "lat": 34.09,
+      "lng": -118.3617,
+      "img": "https://cdn.prod.website-files.com/67c208983c2848098aa364f1/683e3fec9b02873351d4e675_othership-relaxing-sauna-group-session.webp"
+    },
+    {
+      "id": "la5",
+      "num": 5,
+      "name": "Float Lab",
+      "hood": "West Los Angeles",
+      "type": "float",
+      "price": "from $75",
+      "score": 7.5,
+      "gf": [
+        "Serious floaters",
+        "Old-school",
+        "The Samadhi tank"
+      ],
+      "review": "LA's original float center, running since the 1980s in the same West Pico location with the same Samadhi tanks. No rebrand, no upgrades, no marketing budget. Just the deepest float in the city. The cult following is the entire review.",
+      "hours": "Daily · By appointment",
+      "url": "#",
+      "lat": 34.0367,
+      "lng": -118.4494,
+      "img": "https://floatlab.com/wp-content/uploads/float-lab-chamber.jpg"
+    },
+    {
+      "id": "la6",
+      "num": 6,
+      "name": "Esalen Institute",
+      "hood": "Big Sur, California",
+      "type": "springs",
+      "price": "from $30",
+      "score": 9.5,
+      "gf": [
+        "Once in a lifetime",
+        "The 1am slot",
+        "Big Sur",
+        "Anyone"
+      ],
+      "review": "Cliffside mineral hot springs, 1,400 feet above the Pacific, at 1am. You'll understand something about yourself there that you can't quite explain to anyone who hasn't done it. The public window is 1–3am and yes, it is worth the drive from Los Angeles.",
+      "hours": "Guests all day · Public 1am–3am",
+      "url": "https://www.esalen.org",
+      "lat": 36.1459,
+      "lng": -121.665,
+      "img": "https://cdn.prod.website-files.com/602d8561ae2fe6ec8347c903/694821f6e4ea152155821bfb_6941d327802703cecfad78e5_2026-Esalen_Cliffside_Emily-Miller-1500x775.jpeg"
+    }
+  ],
+  "upcoming": []
+}

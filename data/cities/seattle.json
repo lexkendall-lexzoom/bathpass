@@ -1,0 +1,52 @@
+{
+  "name": "Seattle",
+  "state": "WA",
+  "lat": 47.62,
+  "lng": -122.33,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "sea1",
+      "num": 1,
+      "name": "Banya 5",
+      "hood": "Belltown",
+      "type": "bathhouse",
+      "price": "from $45",
+      "score": 8.8,
+      "gf": [
+        "Authentic banya",
+        "The platza",
+        "Date night",
+        "Year-round"
+      ],
+      "review": "A proper Russian banya in Belltown that does it right — banya room at a genuine 200°F, cold plunge, outdoor pool, salt scrubs, and platza service. The rooftop deck with Puget Sound views in the summer is one of the better arguments for living in Seattle.",
+      "hours": "Mon–Thu 1pm–12am · Fri–Sun 11am–12am",
+      "url": "https://banya5.com",
+      "lat": 47.615,
+      "lng": -122.349,
+      "img": "https://images.unsplash.com/photo-1527637040694-60b17b13f9df?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "sea2",
+      "num": 2,
+      "name": "Olympus Spa",
+      "hood": "Lynnwood (20 min north)",
+      "type": "korean",
+      "price": "from $40",
+      "score": 9,
+      "gf": [
+        "Korean jjimjilbang",
+        "Full day",
+        "Women only",
+        "The real thing"
+      ],
+      "review": "Women-only Korean jjimjilbang twenty minutes north of Seattle that routinely gets called one of the best in the country. The body scrubs, jade room, and charcoal sauna are exceptional. Worth every minute of the drive.",
+      "hours": "Daily 9am–9pm · Women only",
+      "url": "https://olympusspa.net",
+      "lat": 47.8262,
+      "lng": -122.2685,
+      "img": "https://images.unsplash.com/photo-1580274455191-1c62613f4cc5?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Palm Beach",
+  "state": "FL",
+  "lat": 26.71,
+  "lng": -80.04,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "pb1",
+      "num": 1,
+      "name": "The Spa at The Breakers",
+      "hood": "Palm Beach Island",
+      "type": "resort",
+      "price": "from $120",
+      "score": 9,
+      "gf": [
+        "Historic hotel",
+        "Full service",
+        "Old money wellness"
+      ],
+      "review": "The Breakers spa is where old Palm Beach money has gone to sweat since 1926. The thermal mineral pools, the lagoon pool, and the full treatment menu operate at the level of the address. One of the most complete resort spa experiences in the country.",
+      "hours": "Daily · Reservation recommended",
+      "url": "https://www.thebreakers.com",
+      "lat": 26.7053,
+      "lng": -80.034,
+      "img": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "pb2",
+      "num": 2,
+      "name": "Eau Spa at Eau Palm Beach",
+      "hood": "Palm Beach Shores",
+      "type": "spa",
+      "price": "from $100",
+      "score": 8.5,
+      "gf": [
+        "Oceanfront",
+        "Modern luxury",
+        "Date night"
+      ],
+      "review": "Eau Palm Beach brings a more contemporary take to the Palm Beach spa formula — the oceanfront setting, the contrast hydrotherapy pools, and the whimsical design language make it the younger, louder counterpart to The Breakers a mile up the coast.",
+      "hours": "Daily · Reservation required",
+      "url": "https://eaupalmbeach.com",
+      "lat": 26.722,
+      "lng": -80.036,
+      "img": "https://images.unsplash.com/photo-1551882547-ff40c63fe2e2?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

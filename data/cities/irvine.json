@@ -1,0 +1,30 @@
+{
+  "name": "Irvine",
+  "state": "CA",
+  "lat": 33.68,
+  "lng": -117.77,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "irv1",
+      "num": 1,
+      "name": "Papakea Float & Wellness",
+      "hood": "Irvine",
+      "type": "float",
+      "price": "from $79",
+      "score": 8,
+      "gf": [
+        "Float therapy",
+        "Orange County",
+        "Stress relief"
+      ],
+      "review": "Orange County's most dedicated float operation — clean, professionally run, with multiple tank options and a staff that understands what they're doing. In a county not exactly overflowing with serious wellness options, Papakea stands clearly apart.",
+      "hours": "Daily · By appointment",
+      "url": "https://papakeafloat.com",
+      "lat": 33.6846,
+      "lng": -117.8265,
+      "img": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

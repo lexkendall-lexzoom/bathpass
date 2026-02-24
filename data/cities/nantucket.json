@@ -1,0 +1,30 @@
+{
+  "name": "Nantucket",
+  "state": "MA",
+  "lat": 41.28,
+  "lng": -70.1,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "nan1",
+      "num": 1,
+      "name": "White Elephant Spa",
+      "hood": "Nantucket Harbor",
+      "type": "spa",
+      "price": "from $95",
+      "score": 8.5,
+      "gf": [
+        "Island luxury",
+        "Harbor views",
+        "Weekend escape"
+      ],
+      "review": "A boutique spa at one of Nantucket's most storied properties, set directly on the harbor. The treatments use sea-derived products and the setting does the rest. A proper Nantucket day: ferry in the morning, spa mid-day, raw bar in the evening.",
+      "hours": "Daily · Reservation required",
+      "url": "https://whiteelephanthotel.com",
+      "lat": 41.287,
+      "lng": -70.096,
+      "img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

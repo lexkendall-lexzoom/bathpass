@@ -1,0 +1,51 @@
+{
+  "name": "Napa Valley",
+  "state": "CA",
+  "lat": 38.5,
+  "lng": -122.27,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "nap1",
+      "num": 1,
+      "name": "Indian Springs Calistoga",
+      "hood": "Calistoga",
+      "type": "springs",
+      "price": "from $60",
+      "score": 9,
+      "gf": [
+        "Mud baths",
+        "Hot springs",
+        "Historic",
+        "Wine country ritual"
+      ],
+      "review": "The oldest operating spa in California and still the best reason to drive to Calistoga. Volcanic ash mud baths heated by geothermal springs, mineral pools, and a main pool that's been in continuous use since 1860. Nothing in wine country feels more earned than this.",
+      "hours": "Daily · Reservation required",
+      "url": "https://indianspringscalistoga.com",
+      "lat": 38.5791,
+      "lng": -122.5796,
+      "img": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "nap2",
+      "num": 2,
+      "name": "Solage Calistoga",
+      "hood": "Calistoga",
+      "type": "resort",
+      "price": "from $85",
+      "score": 8.8,
+      "gf": [
+        "The Mudslide",
+        "Modern resort",
+        "Geothermal pools"
+      ],
+      "review": "Solage modernized the Calistoga mud bath without losing the point. The signature Mudslide ritual — volcanic mud, mineral soak, blanket wrap — is a proper multi-step treatment. The geothermal pools are excellent. Worth the step up from Indian Springs in budget.",
+      "hours": "Daily · Reservation required",
+      "url": "https://solagecalistoga.com",
+      "lat": 38.581,
+      "lng": -122.577,
+      "img": "https://images.unsplash.com/photo-1601918774741-5b20e01c3f00?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

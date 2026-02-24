@@ -1,0 +1,71 @@
+{
+  "name": "Chicago",
+  "state": "IL",
+  "lat": 41.88,
+  "lng": -87.63,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "chi1",
+      "num": 1,
+      "name": "Russian Vapor Baths",
+      "hood": "Ukrainian Village",
+      "type": "bathhouse",
+      "price": "from $45",
+      "score": 8.8,
+      "gf": [
+        "Authentic",
+        "The platza",
+        "Cash only",
+        "Legends"
+      ],
+      "review": "A neighborhood Russian banya on Division Street that's been sweating Chicagoans since 1914. The schvitz room, oak-leaf platza, and cold pool are the entire experience — no upgrades, no wellness branding, no apologies. The most authentic bathhouse between New York and Los Angeles.",
+      "hours": "Daily · Call ahead",
+      "url": "https://www.russianvaporbaths.com",
+      "lat": 41.906,
+      "lng": -87.672,
+      "img": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "chi2",
+      "num": 2,
+      "name": "Chuan Spa at The Langham",
+      "hood": "River North",
+      "type": "spa",
+      "price": "from $85",
+      "score": 8,
+      "gf": [
+        "Luxury hotel spa",
+        "Business travel",
+        "Full service"
+      ],
+      "review": "The best hotel spa in Chicago by a comfortable margin. Traditional Chinese wellness philosophy applied with modern precision — the contrast pools and heated stone loungers in the thermal suite are reason enough to come. The Langham just does things properly.",
+      "hours": "Daily · Hotel + external booking",
+      "url": "https://chicago.langhamhotels.com",
+      "lat": 41.8878,
+      "lng": -87.6262,
+      "img": "https://images.unsplash.com/photo-1574478839902-9135bc39bc99?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "chi3",
+      "num": 3,
+      "name": "Den Wellness",
+      "hood": "River North",
+      "type": "sauna",
+      "price": "from $45",
+      "score": 7.8,
+      "gf": [
+        "Sauna + cold plunge",
+        "Community",
+        "After work"
+      ],
+      "review": "Chicago's cleanest answer to the sauna-and-cold-plunge trend. Infrared and traditional Finnish sauna, ice plunge, and a social lounge designed around community rather than isolation. Sessions book fast — plan ahead.",
+      "hours": "Daily · Session-based",
+      "url": "https://denwellness.com",
+      "lat": 41.892,
+      "lng": -87.629,
+      "img": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

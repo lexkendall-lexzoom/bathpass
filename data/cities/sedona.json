@@ -1,0 +1,51 @@
+{
+  "name": "Sedona",
+  "state": "AZ",
+  "lat": 34.87,
+  "lng": -111.76,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "sed1",
+      "num": 1,
+      "name": "Mii amo Spa",
+      "hood": "Boynton Canyon",
+      "type": "resort",
+      "price": "from $200",
+      "score": 9.5,
+      "gf": [
+        "Destination spa",
+        "Red rock canyon",
+        "Transformational",
+        "Once in a lifetime"
+      ],
+      "review": "Set inside Boynton Canyon in the red rock country, Mii amo is one of the best destination spas in the Western hemisphere — and not by a little. The setting is sacred Yavapai land, the treatments draw on Indigenous healing traditions, and the experience of soaking in an outdoor mineral pool with canyon walls on all sides is something you carry with you.",
+      "hours": "Guests and day visitors · Reservation required",
+      "url": "https://miiamo.com",
+      "lat": 34.9046,
+      "lng": -111.8364,
+      "img": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "sed2",
+      "num": 2,
+      "name": "The Spa at L'Auberge de Sedona",
+      "hood": "Uptown Sedona / Oak Creek",
+      "type": "spa",
+      "price": "from $120",
+      "score": 8.7,
+      "gf": [
+        "Creek-side",
+        "Couples",
+        "Accessible Sedona"
+      ],
+      "review": "Creekside in the cottonwood trees along Oak Creek, with red rock views from the outdoor pools. The most accessible of Sedona's spa experiences without compromising on quality. The desert heat treatments are designed specifically for this landscape.",
+      "hours": "Daily · Reservation recommended",
+      "url": "https://lauberge.com",
+      "lat": 34.8693,
+      "lng": -111.765,
+      "img": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Jackson Hole",
+  "state": "WY",
+  "lat": 43.48,
+  "lng": -110.76,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "jh1",
+      "num": 1,
+      "name": "Amangani Spa",
+      "hood": "East Gros Ventre Butte",
+      "type": "resort",
+      "price": "from $180",
+      "score": 9.4,
+      "gf": [
+        "Remote luxury",
+        "Teton views",
+        "Post-ski",
+        "Destination"
+      ],
+      "review": "Amangani sits above the Snake River valley with Grand Teton views that make the $180 entry feel like a reasonable trade. The heated outdoor pool in winter is one of the defining spa experiences in the American West — you're floating in hot water while the Tetons sit across the valley in snow. There is nothing else like it.",
+      "hours": "Daily · Reservation required",
+      "url": "https://www.aman.com/resorts/amangani",
+      "lat": 43.4951,
+      "lng": -110.7399,
+      "img": "https://images.unsplash.com/photo-1551830820-330a71b99659?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "jh2",
+      "num": 2,
+      "name": "Spa Soleil at Snake River Lodge",
+      "hood": "Teton Village",
+      "type": "resort",
+      "price": "from $120",
+      "score": 8.5,
+      "gf": [
+        "Ski-in access",
+        "Mountain views",
+        "Après ski",
+        "Groups"
+      ],
+      "review": "At the base of Jackson Hole Mountain Resort in Teton Village, which means you can ski to it. The rooftop hot tubs with Teton views are the move after a powder day. A more accessible entry point to Jackson Hole spa than Amangani without compromising on setting.",
+      "hours": "Daily · Reservation recommended",
+      "url": "https://snakeriverlodge.com",
+      "lat": 43.5873,
+      "lng": -110.8278,
+      "img": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

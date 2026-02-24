@@ -1,0 +1,71 @@
+{
+  "name": "Miami",
+  "state": "FL",
+  "lat": 25.79,
+  "lng": -80.13,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "mia1",
+      "num": 1,
+      "name": "Carillon Miami Wellness Resort",
+      "hood": "Miami Beach",
+      "type": "spa",
+      "price": "from $75",
+      "score": 8.7,
+      "gf": [
+        "Full day",
+        "Medical wellness",
+        "Pools + treatments"
+      ],
+      "review": "Seventy thousand square feet of wellness on the north end of Miami Beach, and more serious about it than most. The thermal circuit is the anchor — hydrotherapy pools, sauna, steam — plus a roster of treatments that leans functional over indulgent.",
+      "hours": "Daily · Day pass from $75",
+      "url": "https://carillonhotel.com",
+      "lat": 25.8631,
+      "lng": -80.1203,
+      "img": "https://images.unsplash.com/photo-1551882547-ff40c63fe2e2?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "mia2",
+      "num": 2,
+      "name": "The Spa at The Standard",
+      "hood": "Belle Isle, Miami Beach",
+      "type": "bathhouse",
+      "price": "from $75",
+      "score": 8.2,
+      "gf": [
+        "The scene",
+        "Poolside",
+        "Turkish hammam",
+        "Visitors"
+      ],
+      "review": "The Standard's spa has always punched above its weight. The hammam and cold plunge ritual is genuinely good. The pool deck is genuinely the place to be on a Tuesday afternoon in Miami. It's both things at once and makes no apology for it.",
+      "hours": "Daily · Hotel + non-guest access",
+      "url": "https://standardhotels.com",
+      "lat": 25.785,
+      "lng": -80.143,
+      "img": "https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "mia3",
+      "num": 3,
+      "name": "Faena Spa",
+      "hood": "Mid-Beach, Miami Beach",
+      "type": "spa",
+      "price": "from $100",
+      "score": 8,
+      "gf": [
+        "Luxury",
+        "Special occasions",
+        "Argentine ritual"
+      ],
+      "review": "Alan Faena built a hotel that doesn't look like anything else, and the spa follows. The treatments lean into Argentine wellness traditions with signature rituals that you won't find at another property. Book the pools even if you do nothing else.",
+      "hours": "Daily · Reservation required",
+      "url": "https://faena.com",
+      "lat": 25.808,
+      "lng": -80.123,
+      "img": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

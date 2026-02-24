@@ -1,0 +1,51 @@
+{
+  "name": "Nashville",
+  "state": "TN",
+  "lat": 36.17,
+  "lng": -86.78,
+  "zoom": 13,
+  "venues": [
+    {
+      "id": "nas1",
+      "num": 1,
+      "name": "Spa at Loews Vanderbilt",
+      "hood": "Midtown",
+      "type": "spa",
+      "price": "from $80",
+      "score": 8.2,
+      "gf": [
+        "Full service",
+        "Business travel",
+        "Vanderbilt area"
+      ],
+      "review": "The best hotel spa in Nashville — which is not a deeply competitive category yet, making this a reasonable default for anyone who takes wellness seriously in a city that is still figuring out that part of itself. The massage program is particularly strong.",
+      "hours": "Daily · Reservation required",
+      "url": "https://loewshotels.com/vanderbilt-hotel",
+      "lat": 36.1481,
+      "lng": -86.8002,
+      "img": "https://images.unsplash.com/photo-1574478839902-9135bc39bc99?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "nas2",
+      "num": 2,
+      "name": "Salt Cave Nashville",
+      "hood": "East Nashville",
+      "type": "spa",
+      "price": "from $45",
+      "score": 7.8,
+      "gf": [
+        "Halotherapy",
+        "East Nashville crowd",
+        "Affordable",
+        "First-timers"
+      ],
+      "review": "A halotherapy salt cave in East Nashville that serves the neighborhood's wellness-curious population with genuine quality. Forty-five minutes in the salt room, excellent for respiratory issues, stress, and the general conditions of being a person who lives in a city.",
+      "hours": "Daily · By appointment",
+      "url": "#",
+      "lat": 36.1754,
+      "lng": -86.7531,
+      "img": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

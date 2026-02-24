@@ -1,0 +1,50 @@
+{
+  "name": "Denver",
+  "state": "CO",
+  "lat": 39.74,
+  "lng": -104.99,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "den1",
+      "num": 1,
+      "name": "The Spa at The Brown Palace",
+      "hood": "Downtown Denver",
+      "type": "spa",
+      "price": "from $80",
+      "score": 8.5,
+      "gf": [
+        "Historic hotel",
+        "Special occasions",
+        "Downtown"
+      ],
+      "review": "The Brown Palace has been standing at the corner of Tremont and 17th since 1892, and the spa belongs in that tradition. Artesian spring water sourced from 720 feet below the hotel runs through the hydrotherapy treatments. Genuinely historic, genuinely good.",
+      "hours": "Daily · Reservation recommended",
+      "url": "https://www.brownpalace.com",
+      "lat": 39.7427,
+      "lng": -104.9869,
+      "img": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "den2",
+      "num": 2,
+      "name": "Glow Float",
+      "hood": "Cherry Creek",
+      "type": "float",
+      "price": "from $69",
+      "score": 7.8,
+      "gf": [
+        "Float therapy",
+        "Pre-ski reset",
+        "Altitude recovery"
+      ],
+      "review": "The best float center in Colorado, and particularly useful at 5,280 feet where altitude does things to your body. The zero-gravity tanks are serious — one of the better places to decompress before or after a ski weekend.",
+      "hours": "Daily 9am–9pm · By appointment",
+      "url": "https://glowfloat.com",
+      "lat": 39.7196,
+      "lng": -104.9513,
+      "img": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

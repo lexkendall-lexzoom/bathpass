@@ -1,0 +1,52 @@
+{
+  "name": "Aspen",
+  "state": "CO",
+  "lat": 39.19,
+  "lng": -106.82,
+  "zoom": 14,
+  "venues": [
+    {
+      "id": "asp1",
+      "num": 1,
+      "name": "The Spa at The Little Nell",
+      "hood": "Aspen Mountain",
+      "type": "resort",
+      "price": "from $130",
+      "score": 9.2,
+      "gf": [
+        "Ski + spa",
+        "Post-run recovery",
+        "Luxury",
+        "The only base of Ajax"
+      ],
+      "review": "At the base of Ajax mountain in the most expensive zip code in Colorado. The hydrothermal suite — hot tub, sauna, steam, cold plunge — is what you want after a hard day of powder. The altitude-specific treatments are thoughtfully designed and genuinely effective at 8,000 feet.",
+      "hours": "Daily · Reservation required",
+      "url": "https://www.thelittlenell.com",
+      "lat": 39.1863,
+      "lng": -106.8196,
+      "img": "https://images.unsplash.com/photo-1551830820-330a71b99659?w=500&h=350&fit=crop&q=80"
+    },
+    {
+      "id": "asp2",
+      "num": 2,
+      "name": "The Spa at The St. Regis Aspen",
+      "hood": "Downtown Aspen",
+      "type": "resort",
+      "price": "from $150",
+      "score": 8.8,
+      "gf": [
+        "Full luxury",
+        "Après ski",
+        "Couples",
+        "Year-round"
+      ],
+      "review": "The St. Regis spa in Aspen delivers what you come to Aspen for — exceptional everything, in a mountain setting, without visible effort. The heated outdoor pool in winter with snowflakes falling is one of the genuinely great spa moments you can have in the American West.",
+      "hours": "Daily · Reservation required",
+      "url": "https://www.stregisaspen.com",
+      "lat": 39.191,
+      "lng": -106.82,
+      "img": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": []
+}

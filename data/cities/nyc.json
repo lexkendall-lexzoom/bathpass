@@ -1,0 +1,343 @@
+{
+  "name": "New York City",
+  "state": "NY",
+  "lat": 40.73,
+  "lng": -73.97,
+  "zoom": 12,
+  "venues": [
+    {
+      "id": "nyc1",
+      "num": 1,
+      "name": "Bathhouse Williamsburg",
+      "hood": "Williamsburg, Brooklyn",
+      "type": "bathhouse",
+      "price": "from $39",
+      "score": 9,
+      "gf": [
+        "First-timers",
+        "Date night",
+        "Full day",
+        "Groups"
+      ],
+      "review": "This is the one you bring someone you want to impress — or someone you already have. Eight thermal pools, a rooftop plunge open to the sky, and Aufguss ceremonies that feel closer to performance art than spa therapy. The banya hits 195°F and the cold plunge hits 45°F. That gap is the entire point.",
+      "hours": "Mon–Fri 7am–11pm · Sat–Sun 9am–12am",
+      "url": "https://www.abathhouse.com",
+      "lat": 40.7183,
+      "lng": -73.9599,
+      "img": "https://images.squarespace-cdn.com/content/v1/5f627ccbb290eb31d9234aee/3945cde9-78a8-4ad9-809f-97e823a756e6/Neutral+Pool+1.jpg"
+    },
+    {
+      "id": "nyc2",
+      "num": 2,
+      "name": "Akari Sauna",
+      "hood": "Williamsburg + Greenpoint",
+      "type": "sauna",
+      "price": "Members only",
+      "score": 9.2,
+      "gf": [
+        "Solo ritual",
+        "The discerning",
+        "Daily habit",
+        "Members only"
+      ],
+      "review": "The hardest wellness membership to get in New York right now, and it's not close. Rooted in Japanese sentō tradition by a founder who grew up going to public baths in Tokyo, Akari is what that looks like when you bring it to Brooklyn and do it right. Small, quiet, currently sold out at both locations. Get on the waitlist.",
+      "hours": "Mon–Thu 8am–10pm · Fri–Sun 8am–8pm",
+      "url": "https://www.akarisauna.com",
+      "lat": 40.7108,
+      "lng": -73.9567,
+      "img": "https://cdn.prod.website-files.com/64ee5979ef5937fc52001f92/67f940039615508640a13d94_AKARI-21_3_11zon.jpg"
+    },
+    {
+      "id": "nyc3",
+      "num": 3,
+      "name": "AIRE Ancient Baths",
+      "hood": "Tribeca, Manhattan",
+      "type": "thermal",
+      "price": "from $150",
+      "score": 8.5,
+      "gf": [
+        "Date night",
+        "Special occasions",
+        "Full sensory"
+      ],
+      "review": "You're in a 140-year-old textile factory, candlelit, moving between pools that swing from genuinely hot to actually cold, and it still doesn't feel theatrical. That's the trick AIRE pulls off. Do the wine bath once. Respect the silence policy every time. The $150 price tag is real, but so is the experience.",
+      "hours": "Daily 9am–11pm · Reservation required",
+      "url": "https://beaire.com",
+      "lat": 40.719,
+      "lng": -74.0089,
+      "img": "https://beaire.com/sites/default/files/bg_banner_reserva_h.jpg"
+    },
+    {
+      "id": "nyc4",
+      "num": 4,
+      "name": "Russian & Turkish Baths",
+      "hood": "East Village, Manhattan",
+      "type": "bathhouse",
+      "price": "from $60",
+      "score": 8.8,
+      "gf": [
+        "The real deal",
+        "Old souls",
+        "Post-hangover",
+        "Under $70"
+      ],
+      "review": "Open since 1892, and it smells like it — in the best way. The 20-ton Russian granite room is unlike anything else in the city. A Platza oak-leaf scrub will leave you feeling simultaneously humiliated and reborn. Cash-friendly, old-school, and completely irreplaceable. Don't come here for the Instagram.",
+      "hours": "Daily · Gender-separated hours",
+      "url": "https://www.russianturkishbaths.com",
+      "lat": 40.7285,
+      "lng": -73.9827,
+      "img": "https://static.wixstatic.com/media/8c8383_d1c9fe2b46c2e3ab82084968a669bc15.jpg/v1/fill/w_640,h_427,al_c,q_80,enc_avif,quality_auto/8c8383_d1c9fe2b46c2e3ab82084968a669bc15.jpg"
+    },
+    {
+      "id": "nyc5",
+      "num": 5,
+      "name": "World Spa",
+      "hood": "Bed-Stuy, Brooklyn",
+      "type": "bathhouse",
+      "price": "from $90",
+      "score": 8.2,
+      "gf": [
+        "Full-day immersion",
+        "Groups",
+        "Worth the trip"
+      ],
+      "review": "America's largest banya happens to be under an elevated subway line in Bed-Stuy. The Grand Banya is legitimately grand. Seven sauna rooms, a snow room, a Moroccan hammam, and a restaurant better than it needs to be. This is a full-day destination, and the $90 entry is honest value for what you get.",
+      "hours": "Sun–Thu 9am–1am · Fri–Sat 9am–3am",
+      "url": "https://www.worldspanyc.com",
+      "lat": 40.634,
+      "lng": -73.9754,
+      "img": "https://worldspa.com/wp-content/uploads/2024/02/WorldSpa_038.jpg"
+    },
+    {
+      "id": "nyc6",
+      "num": 6,
+      "name": "Othership Flatiron",
+      "hood": "Flatiron, Manhattan",
+      "type": "sauna",
+      "price": "from $33",
+      "score": 8,
+      "gf": [
+        "The ritual",
+        "Community",
+        "Sober nights out",
+        "Beginners"
+      ],
+      "review": "More structured wellness class than traditional bathhouse, and that's not a criticism. The guided sessions are genuinely well-designed — breathwork, ice bath, sauna, and a playlist that earns its place. The New Yorker called it the SoulCycle of spas. Memberships from $51/mo at two locations.",
+      "hours": "Daily · Session-based booking",
+      "url": "https://othership.us",
+      "lat": 40.7422,
+      "lng": -73.9934,
+      "img": "https://cdn.prod.website-files.com/67c208983c2848098aa364f1/6823ac71cddb5f95242f7b0f_othership-sauna.avif"
+    },
+    {
+      "id": "nyc6b",
+      "num": "6b",
+      "name": "Othership Williamsburg",
+      "hood": "Williamsburg, Brooklyn",
+      "type": "sauna",
+      "price": "from $33",
+      "score": 8.1,
+      "gf": [
+        "The ritual",
+        "Community",
+        "Sober nights out",
+        "Beginners"
+      ],
+      "review": "The Brooklyn outpost of Othership lands right by Domino Park — cedar sauna, ice baths kept at 0–4°C, guided breathwork sessions, and the same community-first ethos that made the brand. If you're in Brooklyn, this one's the move.",
+      "hours": "Daily · Session-based booking",
+      "url": "https://www.othership.us/williamsburg",
+      "lat": 40.7177,
+      "lng": -73.9626,
+      "img": "https://cdn.prod.website-files.com/67c208983c2848098aa364f1/68c86729b6fd32caa237791c_othership-williamsburg-brooklyn-sauna-interior.avif"
+    },
+    {
+      "id": "nyc7",
+      "num": 7,
+      "name": "Remedy Place",
+      "hood": "Flatiron + SoHo",
+      "type": "spa",
+      "price": "from $30",
+      "score": 7.5,
+      "gf": [
+        "Longevity protocols",
+        "The optimized",
+        "Post-workout"
+      ],
+      "review": "Ice baths, infrared, hyperbaric O₂, NAD+ drips — the menu reads like a longevity conference agenda, and it delivers. The social club concept is real. Two Manhattan locations. Walk-ins from $30, memberships from $9,000/year if you're in that world.",
+      "hours": "Daily · Members + walk-ins",
+      "url": "https://remedyplace.com",
+      "lat": 40.7387,
+      "lng": -73.9933,
+      "img": "https://cdn.sanity.io/images/jptxcgmn/production/3158497d1fca43ce863df9e06c8c97763d6c44c1-6123x4082.jpg?w=1200&q=85&fit=clip&auto=format"
+    },
+    {
+      "id": "nyc8",
+      "num": 8,
+      "name": "Great Jones Spa",
+      "hood": "NoHo, Manhattan",
+      "type": "spa",
+      "price": "from $60",
+      "score": 7.8,
+      "gf": [
+        "Weekday escape",
+        "Best value Midtown",
+        "The waterfall"
+      ],
+      "review": "A NoHo classic running the same play for twenty years, and it still works. The three-story indoor waterfall is absurdly good for a city spa. Weekday passes are some of the best value in Manhattan wellness. Unpretentious, reliable, and right there on Great Jones Street.",
+      "hours": "Mon,Thu–Sun 9am–9:30pm · Wed from 2pm",
+      "url": "https://gjspa.com",
+      "lat": 40.7272,
+      "lng": -73.9933,
+      "img": "https://media.timeout.com/images/100539965/750/422/image.jpg"
+    },
+    {
+      "id": "nyc9",
+      "num": 9,
+      "name": "SoJo Spa Club",
+      "hood": "Edgewater, NJ · 15 min from Midtown",
+      "type": "korean",
+      "price": "from $90",
+      "score": 8,
+      "gf": [
+        "The views",
+        "Full day",
+        "Bring everyone"
+      ],
+      "review": "Technically New Jersey, spiritually New York. The rooftop infinity pool with Manhattan views is one of the genuinely great moments in this metro area. 240,000 sq ft, 19 water features, seven sauna rooms. Take the NJ Transit bus from Port Authority — it's fifteen minutes and completely worth it.",
+      "hours": "Daily · Day pass from $90",
+      "url": "https://sojospa.com",
+      "lat": 40.8234,
+      "lng": -73.9778,
+      "img": "https://sojospaclub.com/wp-content/uploads/2023/02/sojo-loop-fallback.jpg"
+    },
+    {
+      "id": "nyc10",
+      "num": 10,
+      "name": "Spa Castle",
+      "hood": "College Point, Queens",
+      "type": "korean",
+      "price": "from $85",
+      "score": 7.5,
+      "gf": [
+        "Full day",
+        "No-nonsense",
+        "Queens institution",
+        "Families"
+      ],
+      "review": "Five floors of Korean spa in College Point with a gold pyramid sauna and no time limit. Not a cool place. A very good place — the kind you drive 45 minutes to and wonder why you don't go every week. Recently renovated, still completely no-frills.",
+      "hours": "Daily 9am–10pm · $110 weekends",
+      "url": "https://spacastleny.com",
+      "lat": 40.7764,
+      "lng": -73.8351,
+      "img": "https://ny.spacastleusa.com/wp-content/uploads/2025/02/Drone-3.jpg"
+    },
+    {
+      "id": "nyc11",
+      "num": 11,
+      "name": "Lift / Next Level Floats",
+      "hood": "Midtown West, Manhattan",
+      "type": "float",
+      "price": "from $89",
+      "score": 7.8,
+      "gf": [
+        "Anxiety reset",
+        "Deep rest",
+        "First float",
+        "Solo only"
+      ],
+      "review": "Eight private float suites, each with a thousand pounds of pharmaceutical-grade Epsom salt. Total soundproofing, no light, no sound, no weight. Ninety minutes in here is worth more than three hours of sleep — that's not marketing copy, that's just what happens.",
+      "hours": "Daily 9am–9pm · By reservation",
+      "url": "https://nextlevelfloats.com",
+      "lat": 40.7551,
+      "lng": -73.9899,
+      "img": "https://cdn.prod.website-files.com/64ee5979ef5937fc52001f92/68364d8910eaeb6443c21c19_AKARI-kodak_800_c_41_10774_90560_200569_000249510032-min.jpg"
+    },
+    {
+      "id": "nycu3",
+      "num": 12,
+      "name": "Lore Bathing Club",
+      "hood": "NoHo, Manhattan",
+      "type": "contrast",
+      "price": "$225/mo · $55/session · $149/7-day pass",
+      "score": null,
+      "gf": [
+        "Daily use",
+        "Membership model",
+        "Contrast therapy"
+      ],
+      "review": "Designed for frequency, not occasion. Dry sauna, infrared sauna, and a serious cold plunge pool — built by alumni of Lifetime Fitness and NeueHouse who understand daily-use design. At $225/month for unlimited weekday access, it reframes bathing as routine rather than indulgence.",
+      "hours": "Mon-Fri 7am-11pm · Sat-Sun 8am-11pm",
+      "url": "https://www.lorebathingclub.com",
+      "lat": 40.7273,
+      "lng": -73.993,
+      "img": "https://images.unsplash.com/photo-1584650000082-7e6c78f17b4a?w=500&h=350&fit=crop&q=80"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "nycu1",
+      "num": 12,
+      "name": "Schwet",
+      "hood": "Tribeca, Manhattan",
+      "type": "upcoming",
+      "price": "$150 / 2.5 hrs",
+      "score": null,
+      "openWhen": "Spring 2026",
+      "gf": [
+        "Club culture",
+        "Wine + steam",
+        "Artist events",
+        "Banya + mineral pool"
+      ],
+      "review": "The one we're most excited about. European bathing tradition meets New York club culture — a banya, mineral pool, Japanese scrub room, 48°F cold plunge, plus a Parcelle wine program, fireplace lounge, dinner parties, and artist takeovers. Building a clubhouse as much as a bathhouse.",
+      "hours": "78 Franklin St, Tribeca",
+      "url": "https://www.instagram.com/getschwet",
+      "lat": 40.7193,
+      "lng": -74.0075,
+      "img": "https://framerusercontent.com/images/rG5S8rrqmS6RsKtRaJrujb8FmE0.png"
+    },
+    {
+      "id": "nycu2",
+      "num": 13,
+      "name": "The Altar",
+      "hood": "Chelsea / Flatiron",
+      "type": "upcoming",
+      "price": "$65 / session",
+      "score": null,
+      "openWhen": "Early 2026",
+      "gf": [
+        "50-person sauna",
+        "Longevity crowd",
+        "$65 / session"
+      ],
+      "review": "Fifty-person sauna, cold plunge suite, hyperbaric chambers, PEMF mats, and Aufguss instructors who also know how to cook. Going after the longevity crowd with a genuinely communal angle. The Fifth Avenue address positions it correctly.",
+      "hours": "122 Fifth Ave, Chelsea/Flatiron",
+      "url": "https://www.instagram.com/thealtar_nyc",
+      "lat": 40.7408,
+      "lng": -73.9897,
+      "img": "https://one22fifth.wpenginepowered.com/wp-content/uploads/2025/02/Atrium_Renders-1.jpeg"
+    },
+    {
+      "id": "nycu4",
+      "num": 15,
+      "name": "SAINT",
+      "hood": "Chelsea, Manhattan",
+      "type": "upcoming",
+      "price": "$280/mo · 12 visits",
+      "score": null,
+      "openWhen": "January 2026",
+      "gf": [
+        "4 private rooms",
+        "Max 3 people",
+        "BOND architecture",
+        "Solitude"
+      ],
+      "review": "Four private sauna and ice bath sanctuaries for up to three people, designed by architecture firm BOND. Less communal, more contemplative — built for stillness and deep recovery. The introvert's play. If you live nearby, this might be your whole routine.",
+      "hours": "242 W 29th St, Chelsea",
+      "url": "https://www.instagram.com/saint__nyc",
+      "lat": 40.7474,
+      "lng": -73.993,
+      "img": "https://framerusercontent.com/images/hoN88F3Z7oX9sX2ryWGdHsJRZ5s.png"
+    }
+  ]
+}
