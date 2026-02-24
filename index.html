@@ -288,9 +288,9 @@ footer{background:var(--ink);border-top:1px solid rgba(255,255,255,.08);padding:
 <main id="main-content">
 <div class="hero">
   <div>
-    <p class="h-ey" id="hero-eyebrow">25 Cities · 100+ Venues · Expanding</p>
-    <h1 class="h-title" id="hero-headline">The Best<br/><span>Sweats</span><br/>In Your<br/>City.</h1>
-    <p class="h-sub" id="hero-subheading">Every bathhouse, sauna, thermal bath, and cold plunge worth your time — with prices, honest reviews, and everything you need.</p>
+    <p class="h-ey" id="hero-eyebrow" data-cms="hero_eyebrow">25 Cities · 100+ Venues · Expanding</p>
+    <h1 class="h-title" id="hero-headline" data-cms="hero_headline">The Best<br/><span>Sweats</span><br/>In Your<br/>City.</h1>
+    <p class="h-sub" id="hero-subheading" data-cms="hero_subheading">Every bathhouse, sauna, thermal bath, and cold plunge worth your time — with prices, honest reviews, and everything you need.</p>
     <div class="capture">
       <p class="cap-l" id="email-section-label">Get your neighborhood guide</p>
       <p class="cap-t" id="email-section-headline">What's best near you — free.</p>
@@ -423,53 +423,37 @@ footer{background:var(--ink);border-top:1px solid rgba(255,255,255,.08);padding:
 </footer>
 
 <script>
-window.siteContent = {
-  hero_eyebrow: '25 CITIES · 100+ VENUES · EXPANDING',
-  hero_headline: 'The Definitive Bathhouse Guide.',
-  hero_subheading: 'Every bathhouse, sauna, thermal bath, and cold plunge worth your time...',
-  stat_venues: '100+',
-  stat_cities: '25',
-  stat_opening_soon: '12',
-  email_section_label: 'STAY IN THE LOOP',
-  email_section_headline: 'Be the first to know...',
-  email_section_body: 'We\'ll send you the top wellness spaces in your area plus first notice of everything opening near you.'
-};
+window.siteContent = window.siteContent || {};
 
-function applySiteContent() {
-  const c = window.siteContent || {};
-  const setText = (id, value) => {
+function applyHomeCmsContent(content) {
+  if (!content || typeof content !== 'object') return;
+  const setCmsField = (key, value) => {
     if (value == null) return;
-    const el = document.getElementById(id);
-    if (el) el.textContent = String(value);
+    const el =
+      document.querySelector(`[data-cms="${key}"]`) ||
+      document.getElementById(key.replace(/_/g, '-'));
+    if (!el) return;
+    el.textContent = String(value);
   };
 
-  setText('hero-eyebrow', c.hero_eyebrow);
-  setText('hero-headline', c.hero_headline);
-  setText('hero-subheading', c.hero_subheading);
-  setText('stat-venues', c.stat_venues);
-  setText('stat-cities', c.stat_cities);
-  setText('stat-opening-soon', c.stat_opening_soon);
-  setText('email-section-label', c.email_section_label);
-  setText('email-section-headline', c.email_section_headline);
-  setText('email-section-body', c.email_section_body);
+  setCmsField('hero_eyebrow', content.hero_eyebrow);
+  setCmsField('hero_headline', content.hero_headline);
+  setCmsField('hero_subheading', content.hero_subheading);
 }
 
-async function loadSiteContent() {
-  try {
-    const res = await fetch('/_data/content.json', { cache: 'no-store' });
-    if (!res.ok) return;
-    const data = await res.json();
-    if (!data || typeof data !== 'object') return;
-    window.siteContent = { ...window.siteContent, ...data };
-    applySiteContent();
-  } catch (_) {
-    // Keep defaults if the JSON file isn't available in the current environment.
-  }
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-  applySiteContent();
-  loadSiteContent();
+document.addEventListener('DOMContentLoaded', function() {
+  fetch('/content/home.json', { cache: 'no-store' })
+    .then(function(res) {
+      if (!res.ok) throw new Error('home.json fetch failed');
+      return res.json();
+    })
+    .then(function(data) {
+      window.siteContent = { ...window.siteContent, ...data };
+      applyHomeCmsContent(data);
+    })
+    .catch(function() {
+      // Leave existing inline copy in place if content JSON cannot be loaded.
+    });
 });
 </script>
 <script>
