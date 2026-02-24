@@ -2,13 +2,15 @@ backend:
   name: git-gateway
   branch: main
 media_folder: "images/uploads"
+publish_mode: simple
+local_backend: true
 
 collections:
-  - name: homepage
-    label: Homepage
+  - name: pages
+    label: Pages
     files:
       - name: home
-        label: Homepage Content
+        label: Homepage
         file: content/home.json
         format: json
         fields:
