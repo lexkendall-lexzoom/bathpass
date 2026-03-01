@@ -1334,14 +1334,29 @@ function getGrad(type) {
   return GRAD[type] || GRAD.spa;
 }
 
+function normalizeVenueImagePath(value) {
+  const raw = (value || '').trim();
+  if (!raw) return '';
+  if (
+    raw.startsWith('/') ||
+    raw.startsWith('data:') ||
+    raw.startsWith('//') ||
+    /^https?:\/\//i.test(raw)
+  ) {
+    return raw;
+  }
+  return `/images/venues/${raw.replace(/^(\.\/|\/)+/, '')}`;
+}
+
 function getVenueImageRequest(url) {
+  const normalizedUrl = normalizeVenueImagePath(url);
   // Card images render at ~240px wide on desktop; provide 1x/2x variants.
   const widths = [320, 480];
   try {
-    const u = new URL(url);
+    const u = new URL(normalizedUrl);
     const h = u.hostname;
     const make = (w) => {
-      const x = new URL(url);
+      const x = new URL(normalizedUrl);
       if (h.includes('images.unsplash.com')) {
         x.searchParams.set('w', String(w));
         x.searchParams.set('h', String(Math.round(w * 0.7)));
@@ -1395,7 +1410,7 @@ function getVenueImageRequest(url) {
   }
 
   return {
-    src: url,
+    src: normalizedUrl,
     srcset: '',
     sizes: '(max-width: 900px) 100vw, 240px'
   };
