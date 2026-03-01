@@ -18,3 +18,69 @@ collections:
           - { label: "Hero Eyebrow", name: "hero_eyebrow", widget: "string", default: "25 Cities · 100+ Venues · Expanding" }
           - { label: "Hero Headline", name: "hero_headline", widget: "string", default: "The Best Sweats In Your City." }
           - { label: "Hero Subheading", name: "hero_subheading", widget: "text", default: "Every bathhouse, sauna, thermal bath, and cold plunge worth your time — with prices, honest reviews, and everything you need." }
+
+  - name: cities
+    label: Cities
+    label_singular: City
+    folder: data/cities
+    create: false
+    delete: false
+    extension: json
+    format: json
+    identifier_field: name
+    editor:
+      preview: false
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "State", name: "state", widget: "string", required: false }
+      - { label: "Latitude", name: "lat", widget: "number", value_type: "float" }
+      - { label: "Longitude", name: "lng", widget: "number", value_type: "float" }
+      - { label: "Map Zoom", name: "zoom", widget: "number", value_type: "int" }
+      - { label: "Coming Soon", name: "comingSoon", widget: "boolean", required: false, default: false }
+      - label: "Venues"
+        name: "venues"
+        widget: "list"
+        collapsed: true
+        summary: "{{fields.name}}"
+        fields:
+          - { label: "ID", name: "id", widget: "string" }
+          - { label: "Number", name: "num", widget: "string" }
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Neighborhood", name: "hood", widget: "string" }
+          - { label: "Type", name: "type", widget: "string" }
+          - { label: "Price", name: "price", widget: "string" }
+          - { label: "Score", name: "score", widget: "number", value_type: "float", required: false }
+          - label: "Good For"
+            name: "gf"
+            widget: "list"
+            field: { label: "Tag", name: "tag", widget: "string" }
+          - { label: "Review", name: "review", widget: "text" }
+          - { label: "Hours", name: "hours", widget: "string" }
+          - { label: "Website", name: "url", widget: "string" }
+          - { label: "Latitude", name: "lat", widget: "number", value_type: "float" }
+          - { label: "Longitude", name: "lng", widget: "number", value_type: "float" }
+          - { label: "Image", name: "img", widget: "image", allow_multiple: false }
+      - label: "Upcoming Venues"
+        name: "upcoming"
+        widget: "list"
+        collapsed: true
+        summary: "{{fields.name}}"
+        fields:
+          - { label: "ID", name: "id", widget: "string" }
+          - { label: "Number", name: "num", widget: "string" }
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Neighborhood", name: "hood", widget: "string" }
+          - { label: "Type", name: "type", widget: "string" }
+          - { label: "Price", name: "price", widget: "string" }
+          - { label: "Score", name: "score", widget: "number", value_type: "float", required: false }
+          - { label: "Opening When", name: "openWhen", widget: "string", required: false }
+          - label: "Good For"
+            name: "gf"
+            widget: "list"
+            field: { label: "Tag", name: "tag", widget: "string" }
+          - { label: "Review", name: "review", widget: "text" }
+          - { label: "Hours", name: "hours", widget: "string" }
+          - { label: "Website", name: "url", widget: "string" }
+          - { label: "Latitude", name: "lat", widget: "number", value_type: "float" }
+          - { label: "Longitude", name: "lng", widget: "number", value_type: "float" }
+          - { label: "Image", name: "img", widget: "image", allow_multiple: false }
