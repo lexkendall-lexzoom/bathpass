@@ -25,15 +25,15 @@ export default function HomePage() {
       <section className="text-center pt-16 pb-10 md:pt-24 md:pb-14 px-6">
         <div className="max-w-[1200px] mx-auto">
           <span className="pill pill-sage text-[13px] mb-6 inline-flex">
-            Now in New York City
+            Launching this summer
           </span>
           <h1 className="font-display text-5xl md:text-7xl lg:text-[80px] leading-[1.05] tracking-tight text-black max-w-2xl mx-auto mb-6">
-            Make sauna part of your{" "}
-            <span className="font-display italic text-sage">week</span>.
+            Your sauna routine,{" "}
+            <span className="font-display italic text-sage">unlocked</span>.
           </h1>
           <p className="text-base md:text-lg text-ash leading-relaxed max-w-md mx-auto mb-8">
-            One membership. Nineteen partner bathhouses and saunas.
-            Book with credits. Go with friends. Build a ritual.
+            One membership. Access top bathhouses across the city.
+            Book with credits. Go with friends.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link href="/membership" className="btn-sage">
