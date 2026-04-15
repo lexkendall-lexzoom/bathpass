@@ -1,6 +1,6 @@
 # BathPass
 
-BathPass is a directory for bathhouses, contrast bathing, and other wellness facilities.
+BathPass is a credit-based membership that gives you access to top bathhouses, saunas, and recovery spaces across the city — one membership, multiple venues, book with credits, go with friends.
 
 ## Current state
 
